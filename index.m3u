@@ -1,0 +1,18 @@
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+#EXTINF:-1 tvg-id="143" tvg-name="CNBC TV18 Prime" tvg-type="Business" group-title="TS-JioTV Business" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" catchup-days="7" catchup="auto" catchup-source="http://mini.allinonereborn.fun:80/jiotv-in/app/catchup/ts_catchup_143_${catchup-id}_${start}_${stop}.m3u8",CNBC TV18 Prime
+http://mini.allinonereborn.fun:80/jiotv-in/app/ts_live_143.m3u8
+
+#EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-type="Entertainment" group-title="TS-JioTV Entertainment" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" catchup-days="7" catchup="auto" catchup-source="http://mini.allinonereborn.fun:80/jiotv-in/app/catchup/ts_catchup_144_${catchup-id}_${start}_${stop}.m3u8",Colors HD
+http://mini.allinonereborn.fun:80/jiotv-in/app/ts_live_144.m3u8
+
+#EXTINF:-1 tvg-id="146" tvg-name="History TV18 HD" tvg-type="Infotainment" group-title="TS-JioTV Infotainment" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" catchup-days="7" catchup="auto" catchup-source="http://mini.allinonereborn.fun:80/jiotv-in/app/catchup/ts_catchup_146_${catchup-id}_${start}_${stop}.m3u8",History TV18 HD
+http://mini.allinonereborn.fun:80/jiotv-in/app/ts_live_146.m3u8
+
+#EXTINF:-1 tvg-id="151" tvg-name="Movies Now HD" tvg-type="Movies" group-title="TS-JioTV Movies" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png",Movies Now HD
+http://mini.allinonereborn.fun:80/jiotv-in/app/ts_live_151.m3u8
+
+#EXTINF:-1 tvg-id="154" tvg-name="Sony SAB" tvg-type="Entertainment" group-title="TS-JioTV Entertainment" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" catchup-days="7" catchup="auto" catchup-source="http://mini.allinonereborn.fun:80/jiotv-in/app/catchup/ts_catchup_154_${catchup-id}_${start}_${stop}.m3u8",Sony SAB
+http://mini.allinonereborn.fun:80/jiotv-in/app/ts_live_154.m3u8
+
+#EXTINF:-1 tvg-id="155" tvg-name="Sony Ten 5 HD" tvg-type="Sports" group-title="TS-JioTV Sports" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",Sony Ten 5 HD
+http://mini.allinonereborn.fun:80/jiotv-in/app/ts_live_155.m3u8
